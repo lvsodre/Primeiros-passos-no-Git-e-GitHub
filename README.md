@@ -6,7 +6,7 @@
 
 *Me chamo Leandro Venturini Sodré*
 
-Sou Pós gradiado em Redes de Computaodres, Graduado em Gestão de TI e um jovem senhor de 41 anos, estudando a área de Dev, especificamente Front-End!
+Sou Pós graduado em Redes de Computaodres, Graduado em Gestão de TI e um jovem senhor de 41 anos, estudando a área de Dev, especificamente Front-End!
 
 Trabalhei meus últimos 12 anos na área de Laboratório de TI, onde sempre adorei trabalhar com hardware, software e redes. 
 
