@@ -23,3 +23,11 @@ Como todos tem algumas dificuldade, comigo não seria diferente. E muitas vezes 
 Como minha dificuldade pode ser a sua, resolvi começar a criar este conteúdo para ajudar os iniciantes (como eu) a entender melhor a introduçaõ no GIt e GitHub. 
 
 ## Criando sua conta no GitHub 🪄
+
+Primeiramente você terá de criar sua conta no GitHub, vou inserir o link abaixo apra você ir direto ao endereço do GitHub e começar criar sua conta. A página é bem intuitiva, onde somente é necessário seguir os passos corretamente. 
+
+[Criar conta no GitHub](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+
+Já tem a conta? Então acesse o link abaixo!
+
+[Acesse sua conta GitHub](https://github.com/login)
