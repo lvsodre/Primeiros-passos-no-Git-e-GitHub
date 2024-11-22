@@ -20,7 +20,7 @@ Hoje resolvi explorar um pouco mais este lado magnífico da TI.
 ## Dificuldades para iniciar? 🤬
 
 Como todos tem alguma dificuldade, comigo não seria diferente. E muitas vezes encontrei conteúdos incríveis, mas mesmo assim não entendia muito bem a explicação.
-Como a minha dificuldade também pode ser a sua, resolvi começar a criar este conteúdo para ajudar os iniciantes **(como eu)** a entender melhor a introdução no [GIt](https://git-scm.com/) e [GitHub](https://github.com/). 
+Como a minha dificuldade também pode ser a sua, resolvi começar a criar este conteúdo para ajudar os iniciantes **(como eu)** a entender melhor a introdução no [GIt](https://git-scm.com/) e [GitHub](https://github.com/).
 
 ## Criando sua conta no GitHub 🪄
 
