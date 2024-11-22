@@ -2,3 +2,6 @@ Olá Mundo!
 Hello World!
 
 -- Welcome Dev --
+
+Seja bem vindo a nosso bloco de testes, onde estamos utilizando
+Git e GitHub para fazer o versionamento do nosso código!
